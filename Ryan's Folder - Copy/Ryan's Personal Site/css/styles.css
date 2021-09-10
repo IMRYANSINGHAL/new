@@ -1,0 +1,33 @@
+/*Tag Selectors*/
+body{background-color: #a6e3e9;}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: black;
+  border-width: 10px;
+  width: 5%;
+   }
+
+h2{color: white;}
+h1{color: white;}
+h3{color: white;}
+
+body{font-style: italic;
+     font-family: sans-serif;}
+
+a{color: white;}
+
+body{background-image: url(file:///C:/Users/Ryan%20singhal/Desktop/wp2742875.jpg);
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-size: cover;;}
+/*Class Selectors*/
+.Melon {background-color: green;}
+.Chillie {background-color: red}
+/*Id selectors*/
+#heading{font-family: monospace;
+         font-variant: small-caps;
+         font-size: 50px;}
+
+img:hover{background-color: gold;}
